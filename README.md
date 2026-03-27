@@ -20,3 +20,5 @@ El sistema ofrece las siguientes opciones:
 1. **Clonar el repositorio:**
    ```bash
    git clone <url-de-tu-repositorio>
+
+(![architrcture Diagram](Diagramaenblanco.png))
